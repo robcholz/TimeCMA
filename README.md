@@ -4,9 +4,8 @@
   <h2><b> (AAAI'25) TimeCMA: Towards LLM-Empowered Multivariate Time Series Forecasting via Cross-Modality Alignment </b></h2>
 </div>
 
----
 >
-> 🙋 Please let us know if you find out a mistake or have any suggestions!
+> 🙋 Please let us know if you find a mistake or have any suggestions!
 > 
 > 🌟 If you find this resource helpful, please consider star this repository and cite our research:
 
