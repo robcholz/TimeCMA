@@ -9,12 +9,12 @@
 > 
 > 🌟 If you find this resource helpful, please consider star this repository and cite our research:
 
-```
-@inproceedings{liu2024spatial,
-  title={Spatial-temporal large language model for traffic prediction},
-  author={Liu, Chenxi and Yang, Sun and Xu, Qianxiong and Li, Zhishuai and Long, Cheng and Li, Ziyue and Zhao, Rui},
-  booktitle={MDM},
-  year={2024}
+```bibtex
+@inproceedings{liu2024timecma,
+  title={TimeCMA: Towards LLM-Empowered Multivariate Time Series Forecasting via Cross-Modality Alignment},
+  author={Liu, Chenxi and Xu, Qianxiong and Miao, Hao and Yang, Sun and Zhang, Lingzheng and Long, Cheng and Li, Ziyue and Zhao, Rui},
+  booktitle={AAAI},
+  year={2025}
 }
 ```
 
