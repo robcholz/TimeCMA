@@ -6,10 +6,7 @@
 
 [![](http://img.shields.io/badge/cs.LG-arXiv%3A2401.10134-B31B1B.svg)](https://arxiv.org/abs/2401.10134)
 
->
-> 🙋 Please let us know if you find a mistake or have any suggestions!
-> 
-> 🌟 If you find this resource helpful, please consider star this repository and cite our research:
+> If you find our work useful in your research. Please consider giving a star ⭐ and citation 📚:
 
 ```bibtex
 @inproceedings{liu2024timecma,
