@@ -55,3 +55,12 @@ bash {data_name}.sh
 [\[GitHub Repo\]](https://github.com/ChenxiLiu-HNU/ST-LLM)
 
 **Authors**: Chenxi Liu, Sun Yang, Qianxiong Xu, Zhishuai Li, Cheng Long, Ziyue Li, Rui Zhao
+
+```bibtex
+@inproceedings{liu2024spatial,
+  title={Spatial-temporal large language model for traffic prediction},
+  author={Liu, Chenxi and Yang, Sun and Xu, Qianxiong and Li, Zhishuai and Long, Cheng and Li, Ziyue and Zhao, Rui},
+  booktitle={MDM},
+  year={2024}
+}
+```
