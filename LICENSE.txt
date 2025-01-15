@@ -1,6 +1,6 @@
 S-Lab License 1.0
 <br/>
-Copyright YEAR S-Lab
+Copyright 2025 S-Lab
 <br/><br/>
 Redistribution and use for non-commercial purpose in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 <br/>
