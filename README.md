@@ -10,7 +10,7 @@
 
 ```bibtex
 @inproceedings{liu2024timecma,
-  title={TimeCMA: Towards LLM-Empowered Multivariate Time Series Forecasting via Cross-Modality Alignment},
+  title={{TimeCMA}: Towards LLM-Empowered Multivariate Time Series Forecasting via Cross-Modality Alignment},
   author={Liu, Chenxi and Xu, Qianxiong and Miao, Hao and Yang, Sun and Zhang, Lingzheng and Long, Cheng and Li, Ziyue and Zhao, Rui},
   booktitle={AAAI},
   year={2025}
