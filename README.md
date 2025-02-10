@@ -57,7 +57,7 @@ bash {data_name}.sh
 
 ```bibtex
 @inproceedings{liu2024spatial,
-  title={Spatial-temporal large language model for traffic prediction},
+  title={Spatial-Temporal Large Language Model for Traffic Prediction},
   author={Liu, Chenxi and Yang, Sun and Xu, Qianxiong and Li, Zhishuai and Long, Cheng and Li, Ziyue and Zhao, Rui},
   booktitle={MDM},
   year={2024}
