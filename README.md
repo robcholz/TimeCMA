@@ -49,20 +49,5 @@ bash Store_{data_name}.sh
 bash {data_name}.sh
 ```
 
-## Further Reading
-[**Spatial-Temporal Large Language Model for Traffic Prediction**](https://arxiv.org/abs/2401.10134), in *MDM* 2024.
-[\[GitHub Repo\]](https://github.com/ChenxiLiu-HNU/ST-LLM)
-
-**Authors**: Chenxi Liu, Sun Yang, Qianxiong Xu, Zhishuai Li, Cheng Long, Ziyue Li, Rui Zhao
-
-```bibtex
-@inproceedings{liu2024spatial,
-  title={Spatial-Temporal Large Language Model for Traffic Prediction},
-  author={Liu, Chenxi and Yang, Sun and Xu, Qianxiong and Li, Zhishuai and Long, Cheng and Li, Ziyue and Zhao, Rui},
-  booktitle={MDM},
-  year={2024}
-}
-```
-
 ## Contact Us
 For inquiries or further assistance, contact us at [chenxi.liu@ntu.edu.sg](mailto:chenxi.liu@ntu.edu.sg) or open an issue on this repository.
