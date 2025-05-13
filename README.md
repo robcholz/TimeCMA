@@ -4,8 +4,6 @@
   <h2><b> (AAAI'25) TimeCMA: Towards LLM-Empowered Multivariate Time Series Forecasting via Cross-Modality Alignment </b></h2>
 </div>
 
-<img width="675" alt="image" src="https://github.com/user-attachments/assets/154eced1-8e51-40b0-b326-a6fc5d07ca8e" />
-
 > If you find our work useful in your research. Please consider giving a star ⭐ and citation 📚:
 
 ```bibtex
@@ -20,7 +18,7 @@
 ## Abstract
 Multivariate time series forecasting (MTSF) aims to learn temporal dynamics among variables to forecast future time series. Existing statistical and deep learning-based methods suffer from limited learnable parameters and small-scale training data. Recently, large language models (LLMs) combining time series with textual prompts have achieved promising performance in MTSF. However, we discovered that current LLM-based solutions fall short in learning *disentangled* embeddings. We introduce TimeCMA, an intuitive yet effective framework for MTSF via cross-modality alignment. Specifically, we present a dual-modality encoding with two branches: the time series encoding branch extracts *disentangled yet weak* time series embeddings, and the LLM-empowered encoding branch wraps the same time series with text as prompts to obtain *entangled yet robust* prompt embeddings. As a result, such a cross-modality alignment retrieves *both disentangled and robust* time series embeddings, ``the best of two worlds'', from the prompt embeddings based on time series and prompt modality similarities. As another key design, to reduce the computational costs from time series with their length textual prompts, we design an effective prompt to encourage the most essential temporal information to be encapsulated in the last token: only the last token is passed to downstream prediction. We further store the last token embeddings to accelerate inference speed. Extensive experiments on eight real datasets demonstrate that TimeCMA outperforms state-of-the-arts.
 
-<img width="896" alt="image" src="https://github.com/user-attachments/assets/006904b8-931b-496a-b523-59180a2714bc" />
+<img width="675" alt="image" src="https://github.com/user-attachments/assets/d188e92e-e993-4481-851e-2b74c5353d0a" />
 
 ## Dependencies
 
