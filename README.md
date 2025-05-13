@@ -4,7 +4,7 @@
   <h2><b> (AAAI'25) TimeCMA: Towards LLM-Empowered Multivariate Time Series Forecasting via Cross-Modality Alignment </b></h2>
 </div>
 
-[![](http://img.shields.io/badge/cs.LG-arXiv%3A2401.10134-B31B1B.svg)](https://arxiv.org/abs/2406.01638)
+<img width="675" alt="image" src="https://github.com/user-attachments/assets/154eced1-8e51-40b0-b326-a6fc5d07ca8e" />
 
 > If you find our work useful in your research. Please consider giving a star ⭐ and citation 📚:
 
