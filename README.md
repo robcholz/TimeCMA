@@ -38,7 +38,17 @@ Multivariate time series forecasting (MTSF) aims to learn temporal dynamics amon
 ## Datasets
 Datasets can be obtained from [TimesNet](https://drive.google.com/drive/folders/13Cg1KYOlzM5C7K8gK8NfC-F3EYxkM3D2) and [TFB](https://drive.google.com/file/d/1vgpOmAygokoUt235piWKUjfwao6KwLv7/view).
 
+## Environment Setup (SJTU only)
+
+```bash
+conda env create -f env_timecma.yaml
+conda activate
+pip install torch==2.1.2+cu121 torchvision==0.16.2+cu121 torchaudio==2.1.2+cu121 -f https://download.pytorch.org/whl/torch_stable.html
+pip install torch-scatter torch-sparse -f https://data.pyg.org/whl/torch-2.1.0+cu121.html
+```
+
 ## Usages
+
 * ### Last token embedding storage
 
 ```bash
