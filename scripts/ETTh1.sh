@@ -2,6 +2,7 @@
 export PYTHONPATH=/path/to/project_root:$PYTHONPATH
 export PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True
 export CUDA_VISIBLE_DEVICES=1
+export TRANSFORMERS_CACHE=./.hf_cache
 
 data_path="ETTh1"
 seq_len=96

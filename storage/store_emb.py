@@ -35,6 +35,7 @@ def get_dataset(data_path, flag, input_len, output_len):
 
 def save_embeddings(args):
     device = torch.device(args.device if torch.cuda.is_available() else "cpu")
+    print(f"Using device: {device}")
     train_set = get_dataset(args.data_path, 'train', args.input_len, args.output_len)
     test_set = get_dataset(args.data_path, 'test', args.input_len, args.output_len)
     val_set = get_dataset(args.data_path, 'val', args.input_len, args.output_len)
@@ -55,7 +56,7 @@ def save_embeddings(args):
         divide=args.divide
     ).to(device)
 
-    save_path = f"./Embeddings/{args.data_path}/{args.divide}/"
+    save_path = f"./embeddings/{args.data_path}/{args.divide}/"
     os.makedirs(save_path, exist_ok=True)
 
     emb_time_path = f"./Results/emb_logs/"
@@ -74,6 +75,7 @@ def save_embeddings(args):
     
 if __name__ == "__main__":
     args = parse_args()
+    print("Start")
     t1 = time.time()
     save_embeddings(args)
     t2 = time.time()

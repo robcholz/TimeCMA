@@ -2,8 +2,9 @@
 export PYTHONPATH=/path/to/project_root:$PYTHONPATH
 export PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True
 export CUDA_VISIBLE_DEVICES=1
+export TRANSFORMERS_CACHE="./cache/huggingface/transformers"
 
-data_path="ECL"
+data_path="electricity"
 seq_len=96
 batch_size=8
 

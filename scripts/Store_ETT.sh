@@ -1,6 +1,7 @@
  #!/bin/bash
 export PYTHONPATH=/mnt/sfs-common/cxliu/TimeCMA:$PYTHONPATH
 export CUDA_VISIBLE_DEVICES=5
+#export TRANSFORMERS_CACHE=./.hf_cache
 
 data_paths=("ETTm1" "ETTm2" "ETTh1" "ETTh2")
 divides=("train" "val" "test")
